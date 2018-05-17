@@ -10,7 +10,7 @@
 		"npm": "6.0.1",
 		"react": "16.3.1",
 		"react-native": "0.55.4",
-		"react-native-ijkplayer": "git+https://github.com/chadsmith/react-native-ijkplayer.git"
+		"react-native-ijkplayer": "git+https://github.com/iwave-fe/react-native-ijkplayer.git"
 	},
 	"devDependencies": {
 		"babel-jest": "22.4.3",

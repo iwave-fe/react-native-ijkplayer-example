@@ -11,7 +11,7 @@ import com.facebook.soloader.SoLoader;
 import java.util.Arrays;
 import java.util.List;
 
-import com.github.iwave-fe.RCTIJKPlayer.IJKPlayerPackage;
+import com.github.chadsmith.RCTIJKPlayer.IJKPlayerPackage;
 
 public class MainApplication extends Application implements ReactApplication {
 

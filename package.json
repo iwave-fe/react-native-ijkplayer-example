@@ -7,15 +7,16 @@
 		"test": "jest"
 	},
 	"dependencies": {
-		"react": "16.0.0",
-		"react-native": "0.50.4",
-		"react-native-ijkplayer": "git+https://github.com/uimeet/react-native-ijkplayer.git"
+		"npm": "^6.0.1",
+		"react": "16.3.1",
+		"react-native": "0.55.4",
+		"react-native-ijkplayer": "git+https://github.com/iwave-fe/react-native-ijkplayer.git"
 	},
 	"devDependencies": {
-		"babel-jest": "21.2.0",
+		"babel-jest": "22.4.3",
 		"babel-preset-react-native": "4.0.0",
-		"jest": "21.2.1",
-		"react-test-renderer": "16.0.0"
+		"jest": "22.4.3",
+		"react-test-renderer": "16.3.1"
 	},
 	"jest": {
 		"preset": "react-native"

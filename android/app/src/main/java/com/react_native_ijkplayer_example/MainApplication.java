@@ -11,7 +11,7 @@ import com.facebook.soloader.SoLoader;
 import java.util.Arrays;
 import java.util.List;
 
-import me.yiii.RCTIJKPlayer.RCTIJKPlayerPackage;
+import com.github.iwave-fe.RCTIJKPlayer.IJKPlayerPackage;
 
 public class MainApplication extends Application implements ReactApplication {
 
@@ -25,7 +25,7 @@ public class MainApplication extends Application implements ReactApplication {
     protected List<ReactPackage> getPackages() {
       return Arrays.<ReactPackage>asList(
           new MainReactPackage(),
-          new RCTIJKPlayerPackage()
+          new IJKPlayerPackage()
       );
     }
 
